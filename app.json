@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "RN Guide",
-    "slug": "rn-complete-guide",
+    "name": "The Great Places App",
+    "slug": "rn-great-places-app",
     "privacy": "public",
     "platforms": [
       "ios",
