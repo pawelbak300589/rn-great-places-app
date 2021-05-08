@@ -11,7 +11,6 @@ const NewPlaceScreen = (props) => {
   const dispatch = useDispatch();
 
   const titleChangeHandler = (event) => {
-    console.log(event.nativeEvent.text);
     setTitleValue(event.nativeEvent.text);
   };
 
