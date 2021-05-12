@@ -1,6 +1,6 @@
 const variables = {
   development: {
-    mapApiKey: '2PCN1qKhOdbAxEyGmNsbqOxOSPOlpFWc8sk2ICR6Vgc'
+    mapApiKey: '9ff96aa687014fbaa1b9471eff92d524'
   },
   production: {
     mapApiKey: '1234TEST'
