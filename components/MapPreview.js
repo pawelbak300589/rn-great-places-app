@@ -7,7 +7,7 @@ const MapPreview = (props) => {
   let imagePreviewUrl;
 
   if (props.location) {
-    imagePreviewUrl = `https://image.maps.ls.hereapi.com/mia/1.6/mapview?apiKey=${ENV().mapApiKey}&lat=${props.location.lat}&lon=${props.location.lng}&vt=0&z=10`
+    imagePreviewUrl = `https://image.maps.ls.hereapi.com/mia/1.6/mapview?apiKey=${ENV().mapApiKey}&lat=${props.location.lat}&lon=${props.location.lng}&vt=0&z=14`
   }
 
   return (
